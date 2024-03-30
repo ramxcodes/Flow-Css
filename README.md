@@ -30,7 +30,7 @@
 To get started with `Flow CSS`, simply include the CSS file in your HTML document.
 <br>
 <br>
-<img style="height: 10em; width: 10em; border: 1px solid #000; border-radius: 1em;" src="Assests/logo.jpg" alt="">
+<img style="height: 10em; width: 10em; border: 1px solid #000;" src="Assests/logo.png" alt="">
 <br>
 <br>
 <b>Local</b> 
@@ -39,7 +39,7 @@ To get started with `Flow CSS`, simply include the CSS file in your HTML documen
 ```
 <b>Cdn</b>
 ```html
-<link rel="stylesheet" href="https://raw.githubusercontent.com/ramxcodes/ramxcodes/main/Flow-Css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ramxcodes/Flow-Css/flow.css">
 ```
 
 ## Last Updated
